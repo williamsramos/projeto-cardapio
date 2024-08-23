@@ -2,6 +2,7 @@ Projeto-Cardapio
 Projeto Cardápido feito tudo do zero Com base no canal Sujeito Programador
 
 https://projeto-cardapio-mu.vercel.app - Preview do site
+https://williamsramos.github.io/projeto-cardapio/
 
 deixa uma star ai :p
 
